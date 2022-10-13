@@ -19,6 +19,6 @@ module.exports = {
     if (configType === 'PRODUCTION') {
       config.base = '/react-design-sytem/'
     }
-    return config;
+    return config
   }
 }
