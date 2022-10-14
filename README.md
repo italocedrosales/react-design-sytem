@@ -1,4 +1,4 @@
-# React Design Sytem
+# React Design System
 
 ## Projeto criado com:
 - Reactjs
