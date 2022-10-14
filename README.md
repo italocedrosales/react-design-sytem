@@ -9,4 +9,4 @@
 - Radix-UI
 
 ### Acesse o Storybook do projeto
-  - [Link do storybook]("https://italocedrosales.github.io/react-design-sytem/?path=/story/components-button--default")
+  - [Link do storybook](https://italocedrosales.github.io/react-design-sytem/?path=/story/components-button--default)
