@@ -13,7 +13,7 @@
 </p>
 
 ## Project
-- [Link do storybook](https://italocedrosales.github.io/react-design-sytem/?path=/story/components-button--default)
+- [Link storybook](https://italocedrosales.github.io/react-design-sytem/?path=/story/components-button--default)
 
 ## Technologies
 
