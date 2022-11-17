@@ -15,6 +15,10 @@
 ## Project
 - [Link storybook](https://italocedrosales.github.io/react-design-sytem/?path=/story/components-button--default)
 
+<h1 align="center">
+    <img alt="Storybook" title="#home" src="assets/storybook.png" width="500px" />
+</h1>
+
 ## Technologies
 
 This project was developed with the following technologies:
