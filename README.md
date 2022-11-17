@@ -30,22 +30,6 @@ This project was developed with the following technologies:
 - Tailwind
 - Radix-UI
 
-## Installation
-
-``` js
-  // First of all, you may clone this repo
-
-  git clone
-
-  // Install the dependencies
-
-  npm install
-
-  // Start the application
-
-  npm run dev
-```
-
 ## Layout
 
 To access the layout use the tool
@@ -63,6 +47,21 @@ To access the layout use the tool
     <img alt="Tokens" src="assets/tokens.png" width="500px" />
 </h1>
 
+## Installation
+
+``` js
+  // First of all, you may clone this repo
+
+  git clone
+
+  // Install the dependencies
+
+  npm install
+
+  // Start the application
+
+  npm run dev
+```
 ## How to contribute
 
 - Make a fork;
