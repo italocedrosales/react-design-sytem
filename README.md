@@ -51,6 +51,18 @@ This project was developed with the following technologies:
 To access the layout use the tool
 <a href="https://www.figma.com/file/o83hjNnU2hAUHrxfuE9H3f/Ignite-Lab-Design-System?node-id=0%3A1" target="_blank">Figma</a>.
 
+<h1 align="center">
+    <img alt="Layout" src="assets/layout.png" width="500px" />
+</h1>
+
+<h1 align="center">
+    <img alt="Components" src="assets/components.png" width="500px" />
+</h1>
+
+<h1 align="center">
+    <img alt="Tokens" src="assets/tokens.png" width="500px" />
+</h1>
+
 ## How to contribute
 
 - Make a fork;
